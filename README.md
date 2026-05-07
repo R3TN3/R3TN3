@@ -1,38 +1,27 @@
-### Hi there 👋
-
 ## 👀 Who am I
 - 🌱 I'm currently learning
-<!--
-- 💡 I'm interesting in Cryptology, Quntum, AI, Blockchain
--->
+- 📚 I'm interesting in Crypto, Quantum
 
-----
+---
 
-## 🔭 Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+## 💻 Development
+<div align="center">
 
-----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/verilog-2F93E0?style=for-the-badge&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quartus%20II-0078D7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ModelSim-111F68?style=for-the-badge&logoColor=white"/>
 
-## 💬 Profile
+</div>
+
+---
+
+## 🔭 Solved.ac
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=retne)](https://solved.ac/retne)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3TN3&theme=vue&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3TN3&layout=compact&theme=vue)
-
-
-<!--
-**R3TN3/R3TN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</div>
