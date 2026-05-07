@@ -1,6 +1,6 @@
 ## 👀 Who am I
 - 🌱 I’m currently learning Cyber Security, including Cryptography and Digital Forensics.
-- 📚 I’m interested in hardware design with Verilog / FPGA.
+- 📚 I’m interested in Hardware Design with Verilog / FPGA.
 
 ---
 
